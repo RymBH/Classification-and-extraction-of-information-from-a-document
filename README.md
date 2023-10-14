@@ -1,6 +1,6 @@
 ## Presentation
 
-This repository contains the code for our project py_docr, developed during our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
+This repository contains the code for our project py_docr.
 
 The goal of this project is to classify documents, especially National ID cards and Passports.
 
